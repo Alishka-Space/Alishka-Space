@@ -2,7 +2,7 @@
 ### 👋 I'm Ali Ibrahim
 ### Full Stack Web Developer
 
-- 🏡 **Currently based in**: Netherlands  
+- 🏡 **Currently based in**: Enschede, Netherlands  
 - 🎓 **Languages I Speak**: English, Arabic, Ukrainian, Russian, and Dutch 🇳🇱  
 - ✉️ **Contact me**: [LinkedIn Profile](https://www.linkedin.com/in/ali-ibrahim-space)  
 
