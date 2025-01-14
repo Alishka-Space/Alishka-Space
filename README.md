@@ -1,15 +1,10 @@
-## Hi there 👋
-
-
-**Alishka-Space/Alishka-Space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there 👋 Welcome to My GitHub!
 
 - 🏡 **Currently based in**: Netherlands  
 - 🎓 **Languages I Speak**: English, Arabic, Ukrainian, Russian, and Dutch 🇳🇱  
 - 🎷 **Fun Fact**: I play the saxophone 🎶  
-- 📚 **Learning**: Advanced React, Advanced Node.js, and improving my Dutch!  
-- ✉️ **Contact me**: [www.linkedin.com/in/ali-ibrahim-space]  
+- 📚 **Learning**: Advanced Node.js, and improving my Dutch!  
+- ✉️ **Contact me**: [LinkedIn Profile](https://www.linkedin.com/in/ali-ibrahim-space)  
 
 ---
 
@@ -20,10 +15,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
+> These are the tools I enjoy working with to bring ideas to life!
+
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Alishka-Space=Alishka-Space&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alishka-Space&show_icons=true&theme=radical)
 
 ---
 
@@ -34,15 +31,9 @@
 
 ---
 
-### 🎉 Fun Section  
-💬 **Languages Fun Fact**: Did you know the Dutch word for "fun" is **"plezier"**? Learning Dutch is truly a plezier for me! 😄  
-
-
----
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/ali-ibrahim-space)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ali-ibrahim-space)
 
 ---
 
@@ -52,3 +43,4 @@
 - 🎯 Inspire others through creativity and technical skills.  
 
 ---
+
