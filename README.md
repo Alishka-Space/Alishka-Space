@@ -4,7 +4,6 @@
 
 - 🏡 **Currently based in**: Netherlands  
 - 🎓 **Languages I Speak**: English, Arabic, Ukrainian, Russian, and Dutch 🇳🇱  
-- 🎷 **Fun Fact**: I play the saxophone 🎶  
 - ✉️ **Contact me**: [LinkedIn Profile](https://www.linkedin.com/in/ali-ibrahim-space)  
 
 ---
@@ -40,10 +39,10 @@
 ---
 
 ### 🏆 Projects & Achievements  
-- 🌟 **TaalCoach**: A full-stack app connecting learners with Dutch language coaches.  
-- 🚀 **GO DUBAI**: A travel web app showcasing tours in Dubai.  
-- 🎮 **Adventure Time Quiz App**: A fun interactive quiz app.   
-
+- 🌟 **[TaalCoach](https://c48-group-a-713269d45048.herokuapp.com/)**: A full-stack app connecting learners with Dutch language coaches.  
+- 🚀 **[GO DUBAI](https://go-dubai-app.netlify.app/)**: A travel web app showcasing tours in Dubai.  
+- 🎮 **[Exchange Rate](https://alishka-space.github.io/Exchange-Rate-API-2/)**: Developed a JavaScript-based app using Fetch API to retrieve and display real-time exchange rates.
+- 🎮 **[Adventure Time Quiz App](keremilhan.github.io/quiz-app/)**: A fun interactive quiz app. 
 ---
 
 
