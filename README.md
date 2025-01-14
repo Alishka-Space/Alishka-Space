@@ -23,7 +23,6 @@
  ![alt text](https://img.shields.io/badge/MogoDB--47A248?style=for-the-badge&logo=MongoDB)
  ![alt text](https://img.shields.io/badge/SQL,MySQL--4479A1?style=for-the-badge&logo=MySQL)
  ![alt text](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
- ![alt text](https://img.shields.io/badge/SQLAlchemy-FFA500?style=for-the-badge&logo=sqlalchemy&logoColor=white)
  ![alt text](https://img.shields.io/badge/CodePen--000000?style=for-the-badge&logo=CodePen)
  ![alt text](https://img.shields.io/badge/VSCode--007ACC?style=for-the-badge&logo=Visual-Studio-Code)
  ![alt text](https://img.shields.io/badge/Render--46E3B7?style=for-the-badge&logo=Render)
