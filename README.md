@@ -51,7 +51,7 @@
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ali-ibrahim-space)
 
-[<img src="https://img.shields.io/badge/-Gmail-fff?logo=gmail" height="30" alt="Gmail">](heba.alzirsalem@gmail.com)
+[<img src="https://img.shields.io/badge/-Gmail-fff?logo=gmail" height="30" alt="Gmail">](ali.ibrahim.work@gmail.com)
 
 ---
 
