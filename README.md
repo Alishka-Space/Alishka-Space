@@ -9,7 +9,7 @@
 - 🎓 **Languages I Speak**: English, Arabic, Ukrainian, Russian, and Dutch 🇳🇱  
 - 🎷 **Fun Fact**: I play the saxophone 🎶  
 - 📚 **Learning**: Advanced React, Advanced Node.js, and improving my Dutch!  
-- ✉️ **Contact me**: [Your Email or LinkedIn]  
+- ✉️ **Contact me**: [www.linkedin.com/in/ali-ibrahim-space]  
 
 ---
 
