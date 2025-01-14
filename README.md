@@ -7,7 +7,9 @@
 - ✉️ **Contact me**: [LinkedIn Profile](https://www.linkedin.com/in/ali-ibrahim-space)  
 
 ---
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishka-Space&langs_count=10&layout=compact)](https://github.com/Alishka-Space/github-readme-stats)
 
+---
 ##### Technologies I have worked with:& TECHNICAL SKILLS!
  ![alt text](https://img.shields.io/badge/Html5--E34F26?style=for-the-badge&logo=Html5)
  ![alt text](https://img.shields.io/badge/Css3--1572B6?style=for-the-badge&logo=css3)
