@@ -5,6 +5,7 @@
 
 - 🏡 **Currently based in**: Enschede, Netherlands  
 - 🎓 **Languages I Speak**: English, Arabic, Ukrainian, Russian, and Dutch 🇳🇱  
+- 🎷 **Musical Twist**: saxophonist and I often code while jazz tunes inspire me. It’s like a mini jam session between tech and music! 🎶 
 - ✉️ **Contact me**: [LinkedIn Profile](https://www.linkedin.com/in/ali-ibrahim-space)  
 
 ---
