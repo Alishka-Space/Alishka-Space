@@ -7,7 +7,6 @@
 - ✉️ **Contact me**: [LinkedIn Profile](https://www.linkedin.com/in/ali-ibrahim-space)  
 
 ---
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishka-Space&langs_count=10&layout=compact)](https://github.com/Alishka-Space/github-readme-stats)
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishka-Space&layout=compact&theme=radical)
 
