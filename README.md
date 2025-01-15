@@ -65,7 +65,7 @@
 ### [**🎮Adventure Time Quiz App**](https://keremilhan.github.io/quiz-app/)  
  #### A fun interactive quiz app.
 <a href="https://keremilhan.github.io/quiz-app/">
-  <img src="https://github.com/Alishka-Space/Alishka-Space/blob/main/assets/exchang%20rate%20shot.png?raw=true" alt="GO Dubai" width="400">
+  <img src="https://github.com/Alishka-Space/Alishka-Space/blob/main/assets/quiz%20app%20shot.png?raw=true" alt="GO Dubai" width="400">
   
 </a>
 - 🎮 **[Adventure Time Quiz App](https://keremilhan.github.io/quiz-app/)**: A fun interactive quiz app. 
