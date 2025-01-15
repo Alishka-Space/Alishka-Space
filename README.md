@@ -36,19 +36,17 @@
 > These are the tools I enjoy working with to bring ideas to life!
 
 ---
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alishka-Space&show_icons=true&theme=radical)
-
----
-
 ### 🏆 Projects & Achievements  
 - 🌟 **[TaalCoach](https://c48-group-a-713269d45048.herokuapp.com/)**: A full-stack app connecting learners with Dutch language coaches.  
 - 🚀 **[GO DUBAI](https://go-dubai-app.netlify.app/)**: A travel web app showcasing tours in Dubai.  
 - 🎮 **[Exchange Rate](https://alishka-space.github.io/Exchange-Rate-API-2/)**: Developed a JavaScript-based app using Fetch API to retrieve and display real-time exchange rates.
 - 🎮 **[Adventure Time Quiz App](https://keremilhan.github.io/quiz-app/)**: A fun interactive quiz app. 
----
 
+---
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alishka-Space&show_icons=true&theme=radical)
+
+---
 
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ali-ibrahim-space)
