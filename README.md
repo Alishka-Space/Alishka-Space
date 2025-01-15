@@ -68,8 +68,6 @@
   <img src="https://github.com/Alishka-Space/Alishka-Space/blob/main/assets/quiz%20app%20shot.png?raw=true" alt="GO Dubai" width="400">
   
 </a>
-- 🎮 **[Adventure Time Quiz App](https://keremilhan.github.io/quiz-app/)**: A fun interactive quiz app. 
-
 ---
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alishka-Space&show_icons=true&theme=radical)
