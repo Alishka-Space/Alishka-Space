@@ -37,7 +37,9 @@
 > These are the tools I enjoy working with to bring ideas to life!
 
 ---
-### 🏆 Projects & Achievements  
+# 🏆 Projects & Achievements  
+ <div style="display: grid; gap: 20px; width: 700px; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
+
 - 🌟 **[TaalCoach](https://c48-group-a-713269d45048.herokuapp.com/)**: A full-stack app connecting learners with Dutch language coaches.  
 - 🚀 **[GO DUBAI](https://go-dubai-app.netlify.app/)**: A travel web app showcasing tours in Dubai.  
 - 🎮 **[Exchange Rate](https://alishka-space.github.io/Exchange-Rate-API-2/)**: Developed a JavaScript-based app using Fetch API to retrieve and display real-time exchange rates.
@@ -54,7 +56,7 @@
 
 [<img src="https://img.shields.io/badge/-Gmail-fff?logo=gmail" height="30" alt="Gmail">](ali.ibrahim.work@gmail.com)
 
-
+</div>
 ---
 
 ### ✨ My Goals  
