@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome to My GitHub!
-### 👋 I'm Ali Ibrahim
+### 👋 I'm Ali 
 ## Full Stack Web Developer
 ### enjoy my time being a Developer, improving user experiences, and staying updated with the latest technologies. My unique ability to connect with people from all walks of life, coupled with fluency in four languages, enhances my collaboration and adaptability in diverse projects. I bring a distinctive blend of full-stack development expertise and an artistic background that sets me apart. 
 
