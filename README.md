@@ -9,6 +9,9 @@
 ---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishka-Space&langs_count=10&layout=compact)](https://github.com/Alishka-Space/github-readme-stats)
 
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishka-Space&layout=compact&theme=radical)
+
+
 ---
 ##### Technologies I have worked with:& TECHNICAL SKILLS!
  ![alt text](https://img.shields.io/badge/Html5--E34F26?style=for-the-badge&logo=Html5)
