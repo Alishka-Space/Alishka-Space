@@ -44,7 +44,7 @@
 <a href="https://c48-group-a-713269d45048.herokuapp.com/">
   <img src="https://github.com/Alishka-Space/Alishka-Space/blob/main/assets/Screen%20Shot%202025-01-15%20at%2013.41.19.png?raw=true" alt="TaalCoach" width="400">
 </a>
---
+---
  
 ## [**GO DUBAI**](https://go-dubai-app.netlify.app/)  
  ### A travel web app showcasing tours in Dubai. 
