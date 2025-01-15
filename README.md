@@ -57,7 +57,7 @@
 ### [**🚀Exchange Rate**](https://alishka-space.github.io/Exchange-Rate-API-2/)  
  #### Developed a JavaScript-based app using Fetch API to retrieve and display real-time exchange rates.
 <a href="https://alishka-space.github.io/Exchange-Rate-API-2/">
-  <img src="https://github.com/Alishka-Space/Alishka-Space/blob/main/assets/Go%20Dubai%20shot%20.png?raw=true" alt="GO Dubai" width="400">
+  <img src="https://github.com/Alishka-Space/Alishka-Space/blob/main/assets/exchang%20rate%20shot.png?raw=true" alt="GO Dubai" width="400">
   
 </a>
 
