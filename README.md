@@ -46,8 +46,7 @@
 </a>
 
 ---
- 
-### [**GO DUBAI**](https://go-dubai-app.netlify.app/)  
+### [**🚀GO DUBAI**](https://go-dubai-app.netlify.app/)  
  #### A travel web app showcasing tours in Dubai. 
 <a href="https://go-dubai-app.netlify.app/">
   <img src="https://github.com/Alishka-Space/Alishka-Space/blob/main/assets/Go%20Dubai%20shot%20.png?raw=true" alt="GO Dubai" width="400">
@@ -55,8 +54,16 @@
 </a>
 
 ---
+### [**🚀Exchange Rate**](https://alishka-space.github.io/Exchange-Rate-API-2/)  
+ #### Developed a JavaScript-based app using Fetch API to retrieve and display real-time exchange rates.
+<a href="https://alishka-space.github.io/Exchange-Rate-API-2/">
+  <img src="https://github.com/Alishka-Space/Alishka-Space/blob/main/assets/Go%20Dubai%20shot%20.png?raw=true" alt="GO Dubai" width="400">
   
-- 🚀 **[GO DUBAI](https://go-dubai-app.netlify.app/)**: A travel web app showcasing tours in Dubai.  
+</a>
+
+---
+  
+
 - 🎮 **[Exchange Rate](https://alishka-space.github.io/Exchange-Rate-API-2/)**: Developed a JavaScript-based app using Fetch API to retrieve and display real-time exchange rates.
 - 🎮 **[Adventure Time Quiz App](https://keremilhan.github.io/quiz-app/)**: A fun interactive quiz app. 
 
