@@ -33,7 +33,10 @@
  ![alt text](https://img.shields.io/badge/Render--46E3B7?style=for-the-badge&logo=Render)
  ![alt text](https://img.shields.io/badge/Netlify--00C7B7?style=for-the-badge&logo=Netlify)
  ![alt text](https://img.shields.io/badge/React.Native--61DAFB?style=for-the-badge&logo=React)
-![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
+ ![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
+ ![alt text](https://img.shields.io/badge/Next.js--000000?style=for-the-badge&logo=Next.js)
+ ![alt text](https://img.shields.io/badge/Vite.js--646CFF?style=for-the-badge&logo=Vite)
+
 
 > These are the tools I enjoy working with to bring ideas to life!
 
