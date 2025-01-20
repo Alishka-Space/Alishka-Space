@@ -6,7 +6,7 @@
 - 🏡 **Currently based in**: Enschede, Netherlands  
 - 🎓 **Languages I Speak**: English, Arabic, Ukrainian, Russian, and Dutch 🇳🇱  
 - 🎷 **Musical Twist**: saxophonist and I often code while jazz tunes inspire me. It’s like a mini jam session between tech and music! 🎶 
-- ✉️ **Contact me**: [LinkedIn Profile](https://www.linkedin.com/in/ali-ibrahim-space)  
+- ✉️ **Contact me**:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ali-ibrahim-space)
 [<img src="https://img.shields.io/badge/-Gmail-fff?logo=gmail" height="30" alt="Gmail">](ali.ibrahim.work@gmail.com)
 
 ---
@@ -80,12 +80,6 @@
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alishka-Space&show_icons=true&theme=radical)
 ---
-
-### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ali-ibrahim-space)
-
-
-
 
 ---
 
