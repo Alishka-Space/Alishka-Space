@@ -20,10 +20,12 @@
  ![alt text](https://img.shields.io/badge/Css3--1572B6?style=for-the-badge&logo=css3)
  ![alt text](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)
  ![alt text](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)
+ ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
  ![alt text](https://img.shields.io/badge/Git--F05032?style=for-the-badge&logo=Git)
  ![alt text](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=GitHub)
  ![alt text](https://img.shields.io/badge/Pug--A86454?style=for-the-badge&logo=Pug)
  ![alt text](https://img.shields.io/badge/React.js--61DAFB?style=for-the-badge&logo=React)
+ ![alt text](https://img.shields.io/badge/Redux.ToolKit--764ABC?style=for-the-badge&logo=Redux)
  ![alt text](https://img.shields.io/badge/Node.js--339933?style=for-the-badge&logo=nodedotjs)
  ![alt text](https://img.shields.io/badge/Express.js--cc0000?style=for-the-badge&logo=Express)
  ![alt text](https://img.shields.io/badge/MogoDB--47A248?style=for-the-badge&logo=MongoDB)
@@ -37,6 +39,7 @@
  ![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
  ![alt text](https://img.shields.io/badge/Next.js--000000?style=for-the-badge&logo=Next.js)
  ![alt text](https://img.shields.io/badge/Vite.js--646CFF?style=for-the-badge&logo=Vite)
+
 
 
 > These are the tools I enjoy working with to bring ideas to life!
